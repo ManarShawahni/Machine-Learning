@@ -106,18 +106,50 @@ We explored **regression models** to predict **Electric Range** based on vehicle
 
 ---
 
-## 📝 **How to Run the Project**
-
 1️⃣ Clone the repository:
 
 ```bash
 git clone https://github.com/ManarShawahni/Machine-Learning.git
 ```
 
-2️⃣ Run the Jupyter Notebook at VScode:
+2️⃣ Navigate into the project directory:
+
+```bash
+cd Machine-Learning/Assignment_1_EV_Data_Analysis/Codes and datasets
+```
+
+3️⃣ Run the Jupyter Notebook:
 
 ```bash
 jupyter notebook
 ```
+- This will open a Jupyter Notebook interface in your browser.
 
-3️⃣ Open `ML_assignment1.ipynb` and explore the analysis.
+- Navigate to ML_assignment1.ipynb and open it.
+
+- Run each cell sequentially to execute the analysis.
+  
+
+4️⃣ Alternatively, run Jupyter Notebook in VS Code:
+
+```bash
+cd .\Assignment_1_EV_Data_Analysis\
+```
+```bash
+cd '.\Codes and datasets\'
+```
+```bash
+code .
+```
+- Then, open the `ML_assignment1.ipynb` file in **VS Code**.
+- Ensure the **Jupyter extension** is installed.
+  
+    - Open VS Code.
+
+    - Press Ctrl + Shift + P and search for Extensions: Install Extensions.
+
+    - Search for Jupyter and install it.
+      
+- Click on **Run All** to execute the cells.
+
+5️⃣ Explore the analysis and modify as needed.
