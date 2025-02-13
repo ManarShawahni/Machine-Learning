@@ -114,10 +114,10 @@ We explored **regression models** to predict **Electric Range** based on vehicle
 git clone https://github.com/your-username/ML_Assignment1_EV_Data_Analysis.git
 ```
 
-2️⃣ Run the Jupyter Notebook:
+2️⃣ Run the Jupyter Notebook at VScode:
 
 ```bash
-jupyter notebook at VScode
+jupyter notebook
 ```
 
 3️⃣ Open `ML_assignment1.ipynb` and explore the analysis.
