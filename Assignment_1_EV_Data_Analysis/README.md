@@ -111,7 +111,7 @@ We explored **regression models** to predict **Electric Range** based on vehicle
 1️⃣ Clone the repository:
 
 ```bash
-git clone https://github.com/ManarShawahni/Machine-Learning/tree/main/Assignment_1_EV_Data_Analysis.git
+git clone https://github.com/ManarShawahni/Machine-Learning.git
 ```
 
 2️⃣ Run the Jupyter Notebook at VScode:
