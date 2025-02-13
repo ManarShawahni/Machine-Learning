@@ -88,15 +88,20 @@ We explored **regression models** to predict **Electric Range** based on vehicle
 | **Polynomial (Degree=3)** | 0.81     | 8.3  |
 | **Decision Tree**         | 0.89     | 5.6  |
 
-📌 *The Decision Tree model performed the best in predicting Electric Range.*
-📌 [You can see the full analysis in Report.pdf](./Report.pdf)
+📌 *The Decision Tree model performed the best in predicting Electric Range.*  
+
+📌 You can see the full analysis in [Report.pdf](./Report.pdf)
+
 ---
 
 ## 🛠️ **Technologies Used**
 
 ✅ **Python**
+
 ✅ **Pandas, NumPy** (Data Processing)
+
 ✅ **Matplotlib, Seaborn** (Visualization)
+
 ✅ **Scikit-learn** (Machine Learning)
 
 ---
